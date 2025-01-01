@@ -1,5 +1,4 @@
 # Tumor-Recgonizer-v7
-Learning Ai
 Predicting Tumor Size Using AI Model in Google Colab
 Introduction
 This document provides a comprehensive guide to utilizing Google Colab for building an artificial intelligence (AI) model to predict melanoma tumor size based on a dataset hosted on Kaggle(https://www.kaggle.com/datasets/anmolkumar/machine-hack-melanoma-tumor-size-prediction?select=test.csv). Specifically, the dataset used for this project is the Machine Hack Melanoma Tumor Size Prediction dataset, which includes various features such as mass_npea, size_npear, malign_ratio, damage_size, exposed_area, std_dev_malign, err_malign, and malign_penalty. The goal is to leverage these features to train a machine learning model capable of accurately predicting the tumor size.
